@@ -6,7 +6,7 @@
 ### ***<div align="center">I'm Kamil Konefeld, a Computer Science student at Poznań University of Technology 👨‍💻 Currently doing exchange at University of Zagreb🚀</div>***  
   
 
-- 🌱 I’m currently learning C# , ASP.NET and Django  
+- 🌱 I’m currently learning R , ASP.NET and Django  
   
 
 - ⚡ Fun fact: As a typical computer scientist, I love cats  
